@@ -1,0 +1,3 @@
+[Unit]
+Description=Diagnostic Log and Trace Slice
+Before=slices.target
